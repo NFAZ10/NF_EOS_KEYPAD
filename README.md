@@ -1,5 +1,7 @@
 This project is still a work in progress. Use files with caution and check over before ordering anything. 
 
+The encoders do not work on the files provided. 
+
 I do all this work in my spare time and im open to requests and changes
 If any of this is useful to you feel free to buy me a coffee!
 https://buymeacoffee.com/nfaz10
